@@ -26,7 +26,22 @@ Epoch for their assets that I have wanted back for some time
 Rara Avises for putting up with my shit all these years
 Nex Corvus for a great community partnership over the past year
 Odizzzle for the powerhouse roundkick Hero move he pulled earlier this summer ;)
-Argument for his awesome source release on BIS Forums
+
+DPCG Staff and Contributors
+DirtySanchez aka. =RAV=MusTanG
+Gonazz and CodeMonkey LOVE
+ComatoseBadger and his BadgerWear ;)
+AxiosODST - Terrain Creation using OCP
+Odizzzle - Server creation / Maps / Feature Ideas
+lolkij - OCP model/fixes and other contributions
+GR8 - Self Falacio Automation, Rock Hard ABS :P
+Adam Kadmon - Server creation / Feature Ideas
+Crazy Mike - Feature Ideas
+Coft Sock - OCP backwards port to Arma 2 for DayZ Epoch
+Kuplion - Contribution Team
+NiiRoZz - Code Optimization and Terrain Creation Assist
+
+
 
 many many more will come
 
